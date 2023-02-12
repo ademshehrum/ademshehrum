@@ -19,6 +19,9 @@ If you have any questions or just want to chat, feel free to reach out! I'm alwa
 
 So what are you waiting for? Let's work together and make something amazing!
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
