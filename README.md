@@ -7,7 +7,7 @@ Hello, and welcome to my GitHub profile! I'm Adam and a full stack web developer
 - Full Stack Web Development
 - Proficient in PHP Framework: CodeIgniter 3
 - Implement jQuery and AJAX in my project
-- use CSS well to design my app. (Loving d-flex haha)
+- Using CSS well to design my app. (Loving d-flex haha)
 
 ## My Philosophy
 
