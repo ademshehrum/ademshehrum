@@ -1,5 +1,5 @@
 <img
-  src="[/path/to/img.jpg](https://pbs.twimg.com/media/DCmjrvaUMAAnp4n?format=jpg&name=large)"
+  src="https://pbs.twimg.com/media/DCmjrvaUMAAnp4n?format=jpg&name=large"
   alt="Gengar"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
