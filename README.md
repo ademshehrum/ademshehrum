@@ -18,3 +18,9 @@ When it comes to web development, I believe that every detail matters. From the 
 If you have any questions or just want to chat, feel free to reach out! I'm always happy to connect with fellow developers and chat about the latest and greatest in web development.
 
 So what are you waiting for? Let's work together and make something amazing!
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+[1]: http://www.twitter.com/adamshahrom
+[2]: http://www.facebook.com/cydiarepos2
