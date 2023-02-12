@@ -1,3 +1,8 @@
+<img
+  src="[/path/to/img.jpg](https://pbs.twimg.com/media/DCmjrvaUMAAnp4n?format=jpg&name=large)"
+  alt="Gengar"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 # Welcome to [@ademshehrum](https://github.com/ademshehrum)
 
 Hello, and welcome to my GitHub profile! I'm Adam and a full stack web developer who loves to turn code into beautiful and functional websites. With a passion for crafting high-quality software and a focus on user experience, I'm constantly pushing the limits of what's possible.
