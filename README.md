@@ -3,7 +3,7 @@
   alt="Gengar"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 200px; max-height: 80px">
-# Welcome to [@ademshehrum](https://github.com/ademshehrum)
+# Welcome to [My Github Profile](https://github.com/ademshehrum)
 
 Hello, and welcome to my GitHub profile! I'm Adam and a full stack web developer who loves to turn code into beautiful and functional websites. With a passion for crafting high-quality software and a focus on user experience, I'm constantly pushing the limits of what's possible.
 
