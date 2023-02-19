@@ -9,7 +9,7 @@ Hello, and welcome to my GitHub profile! I'm Adam and a full stack web developer
 
 ## Skills and Expertise
 
-- Full Stack Web Development
+- Full Stack Web Developer
 - Proficient in PHP Framework: CodeIgniter 3
 - Implement jQuery and AJAX in my project
 - Using CSS well to design my app (Loving d-flex haha)
