@@ -5,9 +5,9 @@
   style="display: inline-block; margin: 0 auto; max-width: 200px; max-height: 80px">
 # Welcome to [My Github Profile](https://github.com/ademshehrum)
 
-Hello, and welcome to my GitHub profile! I'm Adam and currently working as a full stack web developer, would loves to turn code that could help peoples out there. With a passion for crafting high-quality apps and a focus on UX, I'm constantly pushing the limits of what's possible. 
+Hello, and welcome to my GitHub profile! I'm Adam and currently working as a full stack web developer, would loves to turn code into something that could help peoples out there. With a passion for crafting high-quality apps and a focus on UX, I'm constantly pushing the limits of what's possible. 
 
-Since school, I'm enjoyed in innovation(STEM) and computational competitions and maybe someday, I will build a platform where I could help young gens on technologies!
+Since school, I’ve enjoyed participating in innovation (STEM) and computational competitions. Someday, I hope to build a platform to help young generations learn about technology!
 
 ## Skills and Expertise
 
